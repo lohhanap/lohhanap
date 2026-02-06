@@ -32,8 +32,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/lohhanap/lohhanap/output/snake.svg" alt="Snake animation" />
-
-###
