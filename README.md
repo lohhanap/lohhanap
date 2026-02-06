@@ -4,15 +4,15 @@
 
 ###
 
-<h1 align="center">Lohhana Pinheiro.</h1>
+<h1 align="center">Lohhana Pinheiro 👩‍💻​</h1>
 
 ###
 
-<h2 align="left">👩‍💻​ Sobre mim</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">👋 Hello World! Eu sou a Lohhana Pinheiro.<br>Estudante de Ciência da Computação, desenvolvendo projetos pessoais como forma de aprendizado prático.<br>Em constante evolução e explorando diferentes áreas da tecnologia.</p>
+<p align="left">Hello World! Eu sou a Lohhana Pinheiro.<br>Estudante de Ciência da Computação, desenvolvendo projetos pessoais como forma de aprendizado prático.<br>Em constante evolução e explorando diferentes áreas da tecnologia.</p>
 
 ###
 
