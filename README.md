@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">Hello World! Eu sou a Lohhana Pinheiro.<br>Estudante de Ciência da Computação, desenvolvendo projetos pessoais como forma de aprendizado prático.<br>Em constante evolução e explorando diferentes áreas da tecnologia.</p>
+<p align="left">👋 Hello World! Eu sou a Lohhana Pinheiro.<br>Estudante de Ciência da Computação, desenvolvendo projetos pessoais como forma de aprendizado prático.<br>Em constante evolução e explorando diferentes áreas da tecnologia.</p>
 
 ###
 
-<h2 align="left">🛠️ Linguagens e Ferramentas</h2>
+<h2 align="left">Linguagens e Ferramentas</h2>
 
 ###
 
